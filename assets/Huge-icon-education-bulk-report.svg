@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="103.8" height="107" viewBox="0 0 103.8 107">
+  <defs>
+    <filter id="Rectangle_567" x="0" y="0" width="103.8" height="107" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="12.5" result="blur"/>
+      <feFlood flood-color="#21383b" flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Huge-icon_education_bulk_report" data-name="Huge-icon/education/bulk/report" transform="translate(37.5 34.5)">
+    <g transform="matrix(1, 0, 0, 1, -37.5, -34.5)" filter="url(#Rectangle_567)">
+      <path id="Rectangle_567-2" data-name="Rectangle 567" d="M0,6.4A6.4,6.4,0,0,1,6.4,0h16a6.4,6.4,0,0,1,6.4,6.4V25.6A6.4,6.4,0,0,1,22.4,32H6.4A6.4,6.4,0,0,1,0,25.6Z" transform="translate(37.5 34.5)" fill="#fff"/>
+    </g>
+    <path id="Union" d="M4.4,0A4.4,4.4,0,0,0,0,4.4v6.4a1.2,1.2,0,0,0,2.4,0v-2h4v2a1.2,1.2,0,0,0,2.4,0V4.4A4.4,4.4,0,0,0,4.4,0Zm2,6.4v-2a2,2,0,0,0-4,0v2Z" transform="translate(10 5.2)" fill="#21383b" fill-rule="evenodd"/>
+    <path id="Vector_1495_Stroke_" data-name="Vector 1495 (Stroke)" d="M0,1.2A1.2,1.2,0,0,1,1.2,0H14a1.2,1.2,0,0,1,0,2.4H1.2A1.2,1.2,0,0,1,0,1.2Z" transform="translate(6.8 19.6)" fill="#e2b332"/>
+    <path id="Vector_1494_Stroke_" data-name="Vector 1494 (Stroke)" d="M0,1.2A1.2,1.2,0,0,1,1.2,0H7.6a1.2,1.2,0,1,1,0,2.4H1.2A1.2,1.2,0,0,1,0,1.2Z" transform="translate(6.8 24.4)" fill="#e2b332"/>
+  </g>
+</svg>

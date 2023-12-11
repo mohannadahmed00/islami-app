@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="93" height="95.148" viewBox="0 0 93 95.148">
+  <defs>
+    <filter id="Rectangle_1121" x="0" y="0" width="93" height="95.148" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="12.5" result="blur"/>
+      <feFlood flood-color="#21383b" flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Huge-icon_interface_bulk_home_03" data-name="Huge-icon/interface/bulk/home 03" transform="translate(37.5 34.5)">
+    <g id="home">
+      <g transform="matrix(1, 0, 0, 1, -37.5, -34.5)" filter="url(#Rectangle_1121)">
+        <path id="Rectangle_1121-2" data-name="Rectangle 1121" d="M0,8A3,3,0,0,1,1.007,5.753L6.343,1.01a4,4,0,0,1,5.315,0l5.336,4.743A3,3,0,0,1,18,8v8.153a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4Z" transform="translate(37.5 34.5)" fill="#fff"/>
+      </g>
+      <path id="Rectangle_1122" data-name="Rectangle 1122" d="M0,4A4,4,0,0,1,8,4V8H0Z" transform="translate(5 12.148)" fill="#e2b332"/>
+    </g>
+  </g>
+</svg>
